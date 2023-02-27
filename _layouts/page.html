@@ -1,14 +1,16 @@
 ---
-layout: default
+title: About
 ---
+{% include head.html %}
+{% include header.html %}
 
-<main>
-  <div class="container container--work">
-    <article>
+<div class="container">
+  <div class="grid-6 grid-1-mobile">
+    <h1 class="display">{{ page.title }}</h1>
+    <div>
       {{ content }}
-    </article>
+    </div>
   </div>
-  <br>
-  <br>
-  <!-- {% include work.html %} -->
-</main>
+</div>
+
+{% include footer.html %}

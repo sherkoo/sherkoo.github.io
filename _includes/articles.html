@@ -1,0 +1,11 @@
+<div>
+  {% assign sorted_articles = site.articles | sort: 'date' | reverse %} {% for
+  article in sorted_articles %}
+
+  <h3>
+    <a href="{{ article.url | prepend: site.baseurl }}">{{ article.title }} </a>
+  </h3>
+  <p>{{ article.date | date: "%B %d, %Y" }}</p>
+
+  {% endfor %}
+</div>

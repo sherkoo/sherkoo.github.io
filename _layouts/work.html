@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<!-- new -->
+<h1 class="display">{{ page.title }}</h1>
+
+<div class="grid-12">
+  <div class="work-description grid-2-mobile">
+    <div>
+      <h4 class="work-description-title">Project type</h4>
+      <ul>
+        {% for team in page.team %}
+        <li>{{ team }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div>
+      <h4 class="work-description-title">Team</h4>
+      <ul>
+        {% for team in page.teamSize %}
+        <li>{{ team }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div>
+      <h4 class="work-description-title">Goal</h4>
+      {{ page.description }}
+    </div>
+    <div>
+      <h4 class="work-description-title">Duration</h4>
+      {{ page.duration }}
+    </div>
+  </div>
+</div>
+
+<!-- content -->
+<div class="work">{{ page.content }}</div>

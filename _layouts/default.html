@@ -1,37 +1,9 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <!-- meta -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width initial-scale=1" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="robots" content="index, follow">
-    <meta name="dcterms.rightsHolder" content="Copyright {{ site.title }}. All Rights Reserved.">
-    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+{% include head.html %}
+{% include header.html %}
 
-    <!-- title -->
-    <title>{% if page.title %}{{ site.title }} - {{ page.title }}{% else %}{{ site.title }} - Product Designer{% endif %}</title>
-
-    <!-- prefetch -->
-    <link rel="dns-prefetch" href="//fonts.googleapis.com">
-    <link rel="dns-prefetch" href="//www.google-analytics.com">
-
-    <!-- style -->
-    <link rel="stylesheet" href="/assets/main.css">
-
-    <!-- scripts -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-
-    <!-- typography -->
-    <link href="https://fonts.googleapis.com/css?family=Sumana&display=swap" rel="stylesheet">
-  </head>
-  <body>
-
-    {% include header.html %}
-
+  <!-- main content -->
+  <div class="container">
     {{ content }}
+  </div>
 
-    {% include footer.html %}
-
-  </body>
-</html>
+{% include footer.html %}

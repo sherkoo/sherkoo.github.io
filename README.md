@@ -1,56 +1,55 @@
 # Personal Portfolio
-My personal portfolio of work containing UX, web design and front-end development. This site is powered by Jekyll, HTML, SCSS and just a tiny bit of JavaScript.
 
-## Prerequisites
-- Ruby 2.0 or higher
-- Jekyll https://jekyllrb.com/docs/installation/
-- Sass
-- CSS is compiled using SASS found in the ```css/main.scss``` folder
-- Work posts are found in ```_posts/works/**```
-- Images for the portfolio are found in ```img/work/**```
+## Development environment
 
-## Installing
-Assuming Jekyll is installed, and this repo is cloned
-- ```$ cd <project name>```
-- To run: ```$ jekyll server --watch```
-
-## Deployment
-- ```$ jekyll build```
-- ```$ git add .```
-- ```$ git commit -m <message>```
-- ```$ git push master```
-
-This site is hosted on GitHub pages. Just push the master branch to deploy.
-
-## Posting New work
-Posts for new work are found in ```_posts/work```
-
-### Images
-Since markdown wraps images in a ```<p>``` tag. This makes it difficult to style images independently of the text. To make images larger than the width of the paragraph styles, wrap them in a ```<div>``` tag.
-
-To keep images inline (same width as the copy) simply use markdown for images
-```![](/path/to/img)```
-
-### Example
-```
-<div>
-  <img src="/path to image" alt="">
-</div>
+```bash
+jekyll server --watch
 ```
 
-## Built With
-* [Jekyll](https://jekyllrb.com/) - The web framework used
-* [SASS](https://sass-lang.com/) - Styling & CSS management
-* [GitHub Pages](https://pages.github.com/) - Hosting
+## Making a new blog post & custom scripting
 
-## Contributing
-Got an idea to make it better? Let me know with a pull request.
+```bash
+cd _posts
+sh post_script.sh "<<filename>>"
+# (don't forget to put the quotes around the filename)
+```
 
-## Authors
-* **Stephen** - *Design & Development*
+## File structure
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+```yaml
+| ./
+| - layouts:
+| - portfolio: holds portfolio case studies
+| - posts: blog articles
+| - pages: all static pages
+```
 
-## Acknowledgments
-* Thanks to github pages for hosting
+Setting the Permalink and Folder for Portfolio Work
+
+When creating a new portfolio case study, it's important to set the permalink and folder for the work. The permalink determines the URL where the portfolio case study will be accessible, while the folder is where you should place any images or other assets related to the work.
+
+To set the permalink for your portfolio work, simply open the front matter block in the portfolio case study file and set the permalink property to the desired URL. For example:
+
+```yaml
+---
+layout: portfolio
+title: My New Portfolio Work
+permalink: /portfolio/my-new-work/
+---
+```
+
+In this example, the portfolio case study will be accessible at http://your-site.com/portfolio/my-new-work/.
+
+It's also a good idea to place any images or other assets related to the work in a folder. You can create a new folder for each portfolio case study and give it a descriptive name. For example:
+
+```yaml
+- portfolio
+  - my-new-work
+    - image-1.jpg
+    - image-2.jpg
+    - ...
+```
+
+In this example, the my-new-work folder contains all the images and assets related to the portfolio case study. Make sure to reference these assets using the correct relative paths in your portfolio case study file.
+
+Remember to update the permalink and folder for each new portfolio case study you create. This will ensure that your portfolio is organized and easy to navigate.
