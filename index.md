@@ -6,7 +6,7 @@ layout: default
 ---
 
 <h1 class="display">Lead Product Designer</h1>
-### My mission is to drive innovation, enhance usability, and guide teams towards creating exceptional user experiences.
+<!-- ### My mission is to drive innovation, enhance usability, and guide teams towards creating exceptional user experiences. -->
 
 <!-- <h1>As a Lead Product Designer, I’am inspired by leading teams and collaborating with others to collectively deliver exceptional products with a deep understanding of design thinking, user centered design, data, research and business strategy.</h1> -->
 
