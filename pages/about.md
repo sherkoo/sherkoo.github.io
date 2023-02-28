@@ -6,7 +6,7 @@ permalink: /about/
 
 # My name is Stephen
 
-## As a Lead Product Designer, I’am inspired by leading teams and collaborating with others to collectively deliver exceptional products with a deep understanding of design thinking, user centered design, data, research and business strategy.
+## A Lead Product Designer inspired by leading teams and collaborating with others to collectively deliver exceptional products with a deep understanding of design thinking, user centered design, data, research and business strategy.
 
 With a passion for creating intuitive and user-centered designs. I have 15+ years of experience in the industry, and have worked on a wide range of projects for clients in industries like esports, ecommerce, and service design.
 

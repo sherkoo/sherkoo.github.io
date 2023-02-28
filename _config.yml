@@ -30,8 +30,18 @@ github_username: jekyll
 # Markdown settings
 markdown: kramdown
 
+watch: true
+
+# Dev server
+dev_server:
+  host: 127.0.0.1
+  port: 4000
+  watch: true
+  incremental: true
+  livereload: true
+
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 collections:
