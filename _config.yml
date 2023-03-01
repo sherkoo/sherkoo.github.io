@@ -35,10 +35,11 @@ watch: true
 # Dev server
 dev_server:
   host: 127.0.0.1
-  port: 4000
+  port: 4001
   watch: true
   incremental: true
   livereload: true
+  Auto-regeneration: true
 
 # Build settings
 # theme: minima

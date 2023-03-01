@@ -1,6 +1,6 @@
 ---
 layout: work
-title: "PVP Live: Competitive Video Gaming"
+title: "PVP Live"
 date: 2023-02-14 07:56:11 -0600
 duration: 3 years
 thumbnail: /6.jpg
@@ -19,21 +19,24 @@ teamSize:
   ]
 ---
 
-<!-- background -->
-<div class="grid-6 grid-1-mobile">
-  <h2>Background</h2>
-  <p>When myself and 4 others founded PVPLive, the competitive video gaming scene was still in its early stages. The industry was mostly operated by fans with unprofessional graphics, and everything was DIY. As the designer for the startup, I wanted to provide creative direction that would push esports into what it could be, and completely redesign esports graphics so that people would take the industry more seriously.</p>
-</div>
+![](./portfolio/portfolio/pvp-live/6.jpg)
 
-<!-- objectives -->
-<div class="grid-6 spacing-2-0 grid-1-mobile">
-  <h2>Objectives</h2>
-  <ul>
-    <li>Redesign esports graphics to improve the overall user experience for viewers and players</li>
-    <li>Create a consistent and professional brand image for PVP Live in the esports industry</li>
-    <li>Enhance the visual appeal of the esports matches and tournaments to attract a wider audience</li>
-    <li>Increase the engagement and retention of viewers and players by providing an immersive and exciting experience</li>
-  </ul>
+<div class="grid-6 grid-1-mobile">
+  <div>
+    <!-- background -->
+    <h2>Background</h2>
+    <p>When myself and 4 others founded PVPLive, the competitive video gaming scene was still in its early stages. The industry was mostly operated by fans with unprofessional graphics, and everything was DIY. As the designer for the startup, I wanted to provide creative direction that would push esports into what it could be, and completely redesign esports graphics so that people would take the industry more seriously.</p>
+  </div>
+  <div>
+    <!-- objectives -->
+    <h2>Objectives</h2>
+    <ul>
+      <li>Redesign esports graphics to improve the overall user experience for viewers and players</li>
+      <li>Create a consistent and professional brand image for PVP Live in the esports industry</li>
+      <li>Enhance the visual appeal of the esports matches and tournaments to attract a wider audience</li>
+      <li>Increase the engagement and retention of viewers and players by providing an immersive and exciting experience</li>
+    </ul>
+  </div>
 </div>
 
 <!-- users -->
@@ -76,7 +79,7 @@ teamSize:
 
 <!-- broadcasting -->
 
-<div class="grid-8-4 grid-1-mobile">
+<div class="grid-6 grid-1-mobile">
   <div>
     <img src="./portfolio/portfolio/pvp-live/5.jpg" alt="" srcset="">
   </div>
@@ -86,15 +89,14 @@ teamSize:
   </div>
 </div>
 
-{:class="grid-6 grid-1-mobile"}
 The tournaments were broadcasted live on the Twitch platform, with expert commentators providing play-by-play coverage and analysis. The partnership also allowed us to offer exciting prizes and incentives to the winners, including cash prizes and exclusive in-game rewards.
 
 ![thing](./portfolio/portfolio/pvp-live/6.jpg)
 
-## Stage Design
-
-{:class="grid-6 grid-1-mobile"}
-Designing a production set completely from the ground up was an exciting task. In hte past, we've created first iteration for our stage. Our team was determined to create a second iteration of a stage that would elevate our productions to the next level. Throughout the process, we learned a great deal about lighting and how certain colors would show up on the screen, allowing us to fine-tune our approach to ensure the best possible results. We also made the decision to bring in a crane to put our cameras on, which allowed us to capture shots from unique angles and perspectives. Working closely with our production team, we were able to create a set that met our needs and exceeded our expectations, giving us the tools we needed to take our productions to new heights and fit into the visual language.
+<div class="grid-6 grid-1-mobile">
+  <h2>Stage Design</h2>
+  <p>Designing a production set completely from the ground up was an exciting task. In hte past, we've created first iteration for our stage. Our team was determined to create a second iteration of a stage that would elevate our productions to the next level. Throughout the process, we learned a great deal about lighting and how certain colors would show up on the screen, allowing us to fine-tune our approach to ensure the best possible results. We also made the decision to bring in a crane to put our cameras on, which allowed us to capture shots from unique angles and perspectives. Working closely with our production team, we were able to create a set that met our needs and exceeded our expectations, giving us the tools we needed to take our productions to new heights and fit into the visual language.</p>
+</div>
 
 ![thing](./portfolio/portfolio/pvp-live/7.jpg)
 
@@ -118,14 +120,16 @@ Designing a production set completely from the ground up was an exciting task. I
 ![thing](./portfolio/portfolio/pvp-live/3.jpg)
 ![thing](./portfolio/portfolio/pvp-live/4.jpg)
 
-# Desktop
+## Desktop
+
 {:class="grid-6 grid-1-mobile"}
 ![thing](./portfolio/portfolio/pvp-live/8.jpg)
 ![thing](./portfolio/portfolio/pvp-live/9.jpg)
 
-## Real-time Updates
-
-One of the key features of our app was the ability to update in real time during a live broadcast. We were committed to delivering a seamless experience to our fans, ensuring that they would never miss a beat during the excitement of the game. Our app would continuously update the scores and events as they happened, allowing our viewers to follow along and stay up-to-date without ever having to leave the app. We knew that real-time updates were critical to our fans, and we made sure that our app was capable of delivering them with speed and accuracy. Whether it was a close game or a blowout, our fans could always count on our app to keep them informed and engaged from start to finish.
+<div class="grid-6 grid-1-mobile">
+  <h2>Real-time Updates</h2>
+  <p>One of the key features of our app was the ability to update in real time during a live broadcast. We were committed to delivering a seamless experience to our fans, ensuring that they would never miss a beat during the excitement of the game. Our app would continuously update the scores and events as they happened, allowing our viewers to follow along and stay up-to-date without ever having to leave the app. We knew that real-time updates were critical to our fans, and we made sure that our app was capable of delivering them with speed and accuracy. Whether it was a close game or a blowout, our fans could always count on our app to keep them informed and engaged from start to finish.</p>
+</div>
 
 <!-- style guide -->
 <h2>Design System and Branding Guide</h2>
@@ -149,6 +153,7 @@ One of the key features of our app was the ability to update in real time during
 </div>
 
 <img src="./portfolio/portfolio/pvp-live/24.png" alt="">
+
 <img src="./portfolio/portfolio/pvp-live/25.png" alt="">
 
 <div class="grid-6 grid-1-mobile">

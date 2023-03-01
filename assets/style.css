@@ -138,7 +138,7 @@ img{
 }
 
 [class^="grid-"], div[class*="grid-"], ol[class*="grid-"] {
-  gap: 2em;
+  grid-gap: 2em;
 }
 
 /* ol[class*="grid-"] li,
@@ -165,6 +165,7 @@ img{
 .grid-8-4{
   display: grid;
   grid-template-columns: 8fr 4fr;
+  grid-gap: 2em;
 }
 
 .grid-600{
