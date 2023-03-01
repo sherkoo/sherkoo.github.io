@@ -15,7 +15,7 @@ teamSize: [14 Engineers, 4 UX designers, 3 Product owners, 5 Data scientists]
 <div class="grid-6 grid-1-mobile">
   <div>
     <h2>Overview</h2>
-    <p>We will explore the process of designing an application for the finance team that leverages AI and machine learning to assist with creating a new forecast for the business. The goal of this application is to streamline the forecasting process and help the finance team make more accurate predictions about the future of the business. Our main objectives are to improve efficiency, accuracy and user satisfaction.</p>
+    <p>We will explore the process of designing an application for the finance team that leverages AI and machine learning to assist with creating a new forecast for the business. The goal of this application is to streamline the forecasting process and help the finance team make more accurate predictions about the future of the business. Our main objectives are to improve efficiency, accuracy and user satisfaction. All data reflected in the designs are purely for visual purposes. They are not reflective of the company's data.</p>
   </div>
   <div>
     <h2>Background</h2>
@@ -41,6 +41,7 @@ During the early stages of this UX case study, I facilitated a workshop with the
   <p>We conducted research to understand the needs and pain points of the finance team. We conducted interviews with finance professionals to understand their workflow, pain points, and goals. We found that the finance team struggles with the time-consuming process of manually creating forecasts. They also expressed frustration with the complexity of the data and the difficulty of identifying relevant trends and patterns. They expressed a desire for an application that would streamline the process and provide more accurate predictions.</p>
 </div>
 
+![](./portfolio/portfolio/intelligent-business-growth/ibg-21.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-1.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-7.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-8.png)
@@ -59,6 +60,7 @@ During the early stages of this UX case study, I facilitated a workshop with the
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-3.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-10.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-6.png)
+![](./portfolio/portfolio/intelligent-business-growth/ibg-23.png)
 
 <!-- ![](./portfolio/portfolio/intelligent-business-growth/ibg-20.png) -->
 

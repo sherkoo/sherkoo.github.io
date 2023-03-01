@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# My name is Stephen
-
-## A Lead Product Designer inspired by leading teams and collaborating with others to collectively deliver exceptional products with a deep understanding of design thinking, user centered design, data, research and business strategy.
+### A Lead Product Designer inspired by leading teams and collaborating with others to collectively deliver exceptional products with a deep understanding of design thinking, user centered design, data, research and business strategy.
 
 With a passion for creating intuitive and user-centered designs. I have 15+ years of experience in the industry, and have worked on a wide range of projects for clients in industries like esports, ecommerce, and service design.
 
@@ -22,7 +20,10 @@ Overall, my role as a lead UX designer allows me to use my experience and expert
 
 I am always looking for new opportunities to challenge myself and grow as a designer. If you have a project that you think I would be a good fit for, I'd love to hear from you!
 
-# Skills
+## Books that made an impact on me
+![](/pages/books.png)
+
+## Skills
 
 User-Centered Design Principles: Strong understanding and advocate of empathy, user needs and behaviors, and ability to create user-centered solutions that hyper focus on benefitting the user to solve their problems
 
