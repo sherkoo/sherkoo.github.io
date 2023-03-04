@@ -49,6 +49,13 @@ During the early stages of this UX case study, I facilitated a workshop with the
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-4.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-5.png)
 
+![](./portfolio/portfolio/intelligent-business-growth/ibg-24.png)
+
+<div class="grid-6 grid-1-mobile">
+  <h2>Speaking our user's language</h2>
+  <p>It was essential to understand the language and nomenclature used by our target users. This list of nomenclature was placed in confluence as a living document, and shared with the entire team. This understanding gave us motivation to use the same terminology in the interface design, which enhances the user's experience and ensures that they can easily understand the interface's functions. If we were to use different words or phrases than those familiar to your users, it can lead to confusion and frustration, which ultimately decreases the user's trust in your product.</p>
+</div>
+
 <div class="grid-6 grid-1-mobile">
   <h2>Design</h2>
   <p>The team and I designed an application that leverages AI and machine learning to assist the finance team in creating forecasts. The system identifies relevant trends and patterns in the data, and provides recommendations for forecasting based on historical data.</p>

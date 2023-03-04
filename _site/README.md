@@ -3,6 +3,8 @@
 ## Development environment
 
 ```bash
+jekyll serve --force-polling
+# this no longer works
 jekyll server --watch
 ```
 
