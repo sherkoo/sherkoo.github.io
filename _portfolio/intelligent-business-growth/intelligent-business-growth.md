@@ -67,6 +67,7 @@ During the early stages of this UX case study, I facilitated a workshop with the
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-16.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-3.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-6.png)
+![](./portfolio/portfolio/intelligent-business-growth/ibg-28.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-23.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-25.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-26.png)
