@@ -20,6 +20,9 @@ Overall, my role as a lead UX designer allows me to use my experience and expert
 
 I am always looking for new opportunities to challenge myself and grow as a designer. If you have a project that you think I would be a good fit for, I'd love to hear from you!
 
+## Writing
+I like to explore the intersection between philosophy and design ["found here"](/articles). I am fascinated by the idea that the principles of design can be applied not only to objects but also to our lives and how we think about the world around us. Through my writing, I aim to blend philosophical concepts with design principles to create thought-provoking pieces that challenge readers to think differently about the world. I believe that by examining the design of our lives, we can create more meaningful and fulfilling experiences. 
+
 ## Books that made an impact on me
 ![](/pages/books.png)
 
