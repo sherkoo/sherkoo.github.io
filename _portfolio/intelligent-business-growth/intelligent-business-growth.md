@@ -7,7 +7,7 @@ thumbnail: /thumbnail.png
 permalink: "intelligent-business-growth"
 team: [Product strategy, Project lead, Lead UX Design, Research]
 description: "Designing an application for the finance team that leverages AI and machine learning to assist with creating a new forecast for the business."
-teamSize: [14 Engineers, 4 UX designers, 3 Product owners, 5 Data scientists]
+teamSize: [14 Engineers, 4 UX designers, 3 Product owners, 8 Data scientists]
 ---
 
 ![](./portfolio/portfolio/intelligent-business-growth/thumbnail.png)
