@@ -61,13 +61,16 @@ During the early stages of this UX case study, I facilitated a workshop with the
   <p>The team and I designed an application that leverages AI and machine learning to assist the finance team in creating forecasts. The system identifies relevant trends and patterns in the data, and provides recommendations for forecasting based on historical data.</p>
 </div>
 
-![](./portfolio/portfolio/intelligent-business-growth/ibg-16.png)
+![](./portfolio/portfolio/intelligent-business-growth/ibg-10.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-9.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-2.png)
+![](./portfolio/portfolio/intelligent-business-growth/ibg-16.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-3.png)
-![](./portfolio/portfolio/intelligent-business-growth/ibg-10.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-6.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-23.png)
+![](./portfolio/portfolio/intelligent-business-growth/ibg-25.png)
+![](./portfolio/portfolio/intelligent-business-growth/ibg-26.png)
+![](./portfolio/portfolio/intelligent-business-growth/ibg-27.png)
 
 <!-- ![](./portfolio/portfolio/intelligent-business-growth/ibg-20.png) -->
 
