@@ -19,7 +19,7 @@ of personalization in the web space was when sites started to suggest books base
 
 of personalization in the web space is more in line with the current day. In this stage, users are logged into their book app, and the app knows what they have been reading. Based on this data, the app can make recommendations tailored to the user's interests. For example, if a user has been reading a lot of non-fiction books on history, the app may suggest other books in that genre. This stage of personalization is more advanced than the previous two because it is personalized based on the user's behavior and preferences.
 
-## The fourth and final stage
+## The fourth and stage of the future
 
 of personalization in the web space is where AI comes into play. In this stage, users can communicate with AI and manipulate the algorithm until they get a result they are happy with. Once they get their results, they can further tweak their recommendations by saying something like "show me more up-to-date options." This stage of personalization is the most sophisticated yet, and it is constantly evolving.
 

@@ -48,6 +48,7 @@ During the early stages of this UX case study, I facilitated a workshop with the
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-14.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-4.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-5.png)
+<!-- ![](./portfolio/portfolio/intelligent-business-growth/ibg-29.png) -->
 
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-24.png)
 
@@ -61,6 +62,7 @@ During the early stages of this UX case study, I facilitated a workshop with the
   <p>The team and I designed an application that leverages AI and machine learning to assist the finance team in creating forecasts. The system identifies relevant trends and patterns in the data, and provides recommendations for forecasting based on historical data.</p>
 </div>
 
+![](./portfolio/portfolio/intelligent-business-growth/ibg-15.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-10.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-9.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-2.png)
@@ -83,8 +85,6 @@ The application has a simple and intuitive interface, with features such as data
 </div>
 
 <!-- ![](./portfolio/portfolio/intelligent-business-growth/ibg-13.png) -->
-
-![](./portfolio/portfolio/intelligent-business-growth/ibg-15.png)
 
 <div class="grid-6 grid-1-mobile">
   <h2>Outcomes and metrics</h2>
