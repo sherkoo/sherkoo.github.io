@@ -48,6 +48,7 @@ During the early stages of this UX case study, I facilitated a workshop with the
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-14.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-4.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-5.png)
+
 <!-- ![](./portfolio/portfolio/intelligent-business-growth/ibg-29.png) -->
 
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-24.png)
@@ -70,6 +71,12 @@ During the early stages of this UX case study, I facilitated a workshop with the
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-3.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-6.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-28.png)
+
+<div class="grid-6 grid-1-mobile">
+  <h2>Weekly design touchbases</h2>
+  <p>Hosting weekly ritual meetings with the design team is an effective way to ensure everyone is aligned and on track with their responsibilities. During these meetings, we discuss the work that needs to be completed for the week, and establish a clear plan for when we will review designs and provide feedback. This helps us to prioritize our tasks and ensure that we are all working towards the same goals. By discussing any roadblocks or challenges we are facing, we are able to collaborate and come up with solutions together. Additionally, we use these meetings to identify any resources or support we may need to successfully complete our tasks, and ensure that we have the necessary tools and information to do so. </p>
+</div>
+
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-23.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-25.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-26.png)
