@@ -192,6 +192,19 @@ teamSize: [6 Engineers, 1 UX designer, 1 Product owner, 1 Researcher]
 ![sdf](./portfolio/portfolio/jcpenney-cart-and-checkout/jcpenney-cart61.jpeg)
 
 <div class="grid-6 grid-1-mobile">
+  <div>
+    <p>Overall online revenue before:</p>
+    <h2 class="display">$3.38B</h2>
+  </div>
+  <div>
+    <p>Overall online revenue after:</p>
+    <h2 class="display">$3.45B</h2>
+    <h4>$7M Increase</h4>
+    <p>(This was the result of the hard work of several efforts and teams)</p>
+  </div>
+</div>
+
+<div class="grid-6 grid-1-mobile">
   <h2>Conclusion</h2>
   <p>After this initiative, we were able to achieve significant improvements in key performance metrics that had a substantial impact on the company's bottom line. Specifically, we were able to reduce abandonment rates and increase conversion rates for both the cart and checkout experiences. These improvements translated into millions of dollars in revenue for the company. However, the most important aspect of this initiative was the impact it had on the user. By streamlining the checkout and cart experiences and providing a more seamless journey, we were able to make it easier and more enjoyable for customers to complete their purchases. This resulted in increased customer satisfaction and loyalty, ultimately leading to long-term benefits for the company.</p>
 </div>
