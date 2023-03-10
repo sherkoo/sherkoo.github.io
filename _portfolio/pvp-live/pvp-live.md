@@ -109,8 +109,9 @@ The tournaments were broadcasted live on the Twitch platform, with expert commen
   <img src="./portfolio/portfolio/pvp-live/20.png" alt="">
   <img src="./portfolio/portfolio/pvp-live/21.png" alt="">
   <img src="./portfolio/portfolio/pvp-live/22.png" alt="">
-  <img src="./portfolio/portfolio/pvp-live/23.png" alt="">
 </div>
+
+<img src="./portfolio/portfolio/pvp-live/23.png" alt="">
 
 <!-- app design -->
 
