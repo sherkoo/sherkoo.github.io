@@ -28,6 +28,8 @@ teamSize: [6 Engineers, 1 UX designer, 1 Product owner, 1 Researcher]
   <p>In large corporations, it can be challenging to keep the user first in all of our design decisions to our stakeholders. It required a significant amount of convincing with stakeholders, who often had other priorities and competing interests. However, I recognized the importance of maintaining a user-centered design approach to ensure that our products and services met the needs of our users. To help with this, I utilized a template that clearly outlined the benefits and rationale for keeping the user at the center of our design process. I communicated this often with my stakeholders, emphasizing the importance of listening to our users and incorporating their feedback throughout the design process.</p>
 </div>
 
+![](./portfolio/portfolio/jcpenney-cart-and-checkout/jcpenney-cart72.jpg)
+
 <div class="grid-6 grid-1-mobile">
   <h2>Working with our research team</h2>
   <p>I worked with the product manager and research team to review customer behavior via heatmaps and customer feedback. We had a weekly cadence to discuss these topics, take note and incorporate them into our next steps.</p>
