@@ -68,7 +68,7 @@ p{
   font-weight: 100;
   line-height: 1.75em;
   letter-spacing: -.02em;
-  margin-bottom: 2.5em;
+  margin-bottom: 2em;
 }
 
 a{
@@ -171,7 +171,7 @@ img{
 .grid-8-4{
   display: grid;
   grid-template-columns: 8fr 4fr;
-  grid-gap: 2em;
+  grid-gap: 8em;
 }
 
 .grid-600{

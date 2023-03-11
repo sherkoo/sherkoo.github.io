@@ -7,8 +7,8 @@ thumbnail: /fusion-24.png
 permalink: "fusion"
 published: true
 team: [Product strategy, Project lead, UX Design, Research]
-description: "Create a tool for Sam’s Club’s merchant teams that improves their lives by removing and reducing mundane tasks so they can focus on serving their customers."
-teamSize: [7 Engineers, 3 UX designers, 1 Product owner, 2 Data scientists]
+description: "Create a tool for Sam’s Club’s merchant teams that improves their lives by removing mundane tasks so they can focus the majority of their time crafting more delightful experiences for the customer."
+teamSize: [7 Engineers, 3 UX designers, 1 Product owner, 2 Data scientists, 1 Content designer]
 ---
 
 ![](./portfolio/portfolio/fusion/fusion-24.png)

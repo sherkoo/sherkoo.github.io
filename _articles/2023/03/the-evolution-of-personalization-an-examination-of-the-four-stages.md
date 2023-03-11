@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "The Rise of Personalization in Book Recommendations: An Examination of the Four Stages in the Web Space"
+title: "The Evolution of Personalization: An Examination of Four Stages"
 date: 2023-03-06 06:54:06 -0600
 description: A brief description of my Jekyll blog post for the meta description.
 ---

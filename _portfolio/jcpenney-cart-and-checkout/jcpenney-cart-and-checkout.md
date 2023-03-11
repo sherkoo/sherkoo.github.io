@@ -25,7 +25,7 @@ teamSize: [6 Engineers, 1 UX designer, 1 Product owner, 1 Researcher]
 
 <div class="grid-6 grid-1-mobile">
   <h2>Keeping the user first</h2>
-  <p>One of the most challenging aspects was keeping the user first in all of our design decisions. It required a significant amount of convincing with stakeholders, who often had other priorities and competing interests. However, I recognized the importance of maintaining a user-centered design approach to ensure that our products and services met the needs of our users. To help with this, I utilized a template that clearly outlined the benefits and rationale for keeping the user at the center of our design process. I communicated this often with my stakeholders, emphasizing the importance of listening to our users and incorporating their feedback throughout the design process. This acted as our mission statement.</p>
+  <p>One of the most challenging aspects seemed to be communicating the act keeping the user first in all of our design decisions to our stakeholders. It required a significant amount of convincing with stakeholders, who often had other priorities and competing interests. However, I recognized the importance of maintaining a user-centered design approach to ensure that our products and services met the needs of our users. To help with this, I utilized a template that clearly outlined the benefits and rationale for keeping the user at the center of our design process. I communicated this often with my stakeholders, emphasizing the importance of listening to our users and incorporating their feedback throughout the design process. This acted as our mission statement.</p>
 </div>
 
 <div class="grid-6 grid-1-mobile">
@@ -188,6 +188,11 @@ teamSize: [6 Engineers, 1 UX designer, 1 Product owner, 1 Researcher]
 ![sdf](./portfolio/portfolio/jcpenney-cart-and-checkout/jcpenney-cart59.jpeg)
 
 ![sdf](./portfolio/portfolio/jcpenney-cart-and-checkout/jcpenney-cart60.jpeg)
+
+<div class="grid-6 grid-1-mobile">
+  <h2>Testing and validating</h2>
+  <p>Quantifying was crucial step in measuring our results. However, when there is an existing checkout experience that is generating revenue, it becomes challenging to test alternative designs without disrupting the user's journey. We decided to A/B test the alternate design solution without compromising the existing experience. To begin with, we gathered qualitative feedback in the initial stages to gauge user sentiment towards the new design. However, to quantify the results, we needed to conduct A/B testing, which required significant effort, as A/B tests are not typically done to test entire multi-page experiences. Nonetheless, by conducting A/B testing, we could measure the impact of the new design on key metrics such as conversion rates and bounce rates, and make data-driven decisions to optimize the user experience.</p>
+</div>
 
 ![sdf](./portfolio/portfolio/jcpenney-cart-and-checkout/jcpenney-cart61.jpeg)
 
