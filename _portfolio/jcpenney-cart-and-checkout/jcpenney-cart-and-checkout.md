@@ -14,7 +14,7 @@ teamSize: [6 Engineers, 1 UX designer, 1 Product owner, 1 Researcher]
 
 <div class="grid-6 grid-1-mobile">
   <h2>Problem Statement</h2>
-  <p>There are multiple stakeholders that have a voice for the cart and checkout experience leaving the customer as secondary.This has resulted in an experience with too many features for the user, and an unclear message/story to the user. As a result cart and checkout abandonment rate was increasing. Our mission was investigate, and increase checkout conversion.</p>
+  <p>There are multiple stakeholders that have a voice for the cart and checkout experience leaving the customer as secondary. This has resulted in an experience with too many features being added, and an unclear message/story to the user. As a result cart and checkout abandonment rate was increasing. Our mission was investigate, and increase checkout conversion.</p>
 </div>
 
 <!-- ![sdf](./portfolio/portfolio/jcpenney-cart-and-checkout/jcpenney-cart4.jpeg) -->
@@ -25,18 +25,18 @@ teamSize: [6 Engineers, 1 UX designer, 1 Product owner, 1 Researcher]
 
 <div class="grid-6 grid-1-mobile">
   <h2>Keeping the user first</h2>
-  <p>One of the most challenging aspects seemed to be communicating the act keeping the user first in all of our design decisions to our stakeholders. It required a significant amount of convincing with stakeholders, who often had other priorities and competing interests. However, I recognized the importance of maintaining a user-centered design approach to ensure that our products and services met the needs of our users. To help with this, I utilized a template that clearly outlined the benefits and rationale for keeping the user at the center of our design process. I communicated this often with my stakeholders, emphasizing the importance of listening to our users and incorporating their feedback throughout the design process. This acted as our mission statement.</p>
+  <p>In large corporations, it can be challenging to keep the user first in all of our design decisions to our stakeholders. It required a significant amount of convincing with stakeholders, who often had other priorities and competing interests. However, I recognized the importance of maintaining a user-centered design approach to ensure that our products and services met the needs of our users. To help with this, I utilized a template that clearly outlined the benefits and rationale for keeping the user at the center of our design process. I communicated this often with my stakeholders, emphasizing the importance of listening to our users and incorporating their feedback throughout the design process.</p>
 </div>
 
 <div class="grid-6 grid-1-mobile">
   <h2>Working with our research team</h2>
-  <p>I worked with the product manager and research team to review things like heatmaps and customer feedback. We had a weekly cadence to discuss these topics, take note and incorporate them into our next steps.</p>
+  <p>I worked with the product manager and research team to review customer behavior via heatmaps and customer feedback. We had a weekly cadence to discuss these topics, take note and incorporate them into our next steps.</p>
 </div>
 ![sdf](./portfolio/portfolio/jcpenney-cart-and-checkout/jcpenney-cart12.jpeg)
 
 <div class="">
   <h2>Success Metrics</h2>
-  <div class="grid-4">
+  <div class="grid-4 grid-1-mobile">
     <div>
       <p>Increase conversion by</p>
       <h2 class="display">0.25%</h2>
@@ -57,11 +57,11 @@ teamSize: [6 Engineers, 1 UX designer, 1 Product owner, 1 Researcher]
 <div class="grid-6 grid-1-mobile">
   <h2>Creating a mission statement</h2>
   <div>
-    <p>My goal was to prioritize the user in our team's focus, as we tended to become overly fixated on metrics and conversions, losing sight of the most crucial element: the user.</p>
+    <p>My goal was to prioritize the user in our team's focus, as objectives became overly fixated on metrics and conversions, losing sight of the most crucial element: the user.</p>
 
-    <p>JCPenney customers are drawn to the store for various reasons, including their love for discounts and the ability to apply coupons to their orders, setting it apart from competitors like Amazon.</p>
+    <p>JCPenney customers are drawn to the store for various reasons, including their love for discounts and the ability to apply discounts to their orders, setting it apart from competitors.</p>
 
-    <p>The team at JCPenney was structured based on ownership of major pages, such as the homepage or the cart and checkout experience, which was the responsibility of our team. However, I emphasized to the team that we should not be limited by these boundaries within the company. From the customer's perspective, it is a seamless experience. This approach helped us maintain a user-centric focus.</p>
+    <p>The team at JCPenney was structured based on ownership of major pages, such as the homepage or the cart and checkout experience, which was the responsibility of our team. However, I emphasized to the team that we should not be limited by these boundaries within the company. From the customer's perspective, it is a seamless experience from beginning to end. This approach helped us maintain a user-centric focus.</p>
 
   </div>
 </div>
