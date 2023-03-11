@@ -147,6 +147,11 @@ teamSize: [6 Engineers, 1 UX designer, 1 Product owner, 1 Researcher]
 
 ![sdf](./portfolio/portfolio/jcpenney-cart-and-checkout/jcpenney-cart41.jpeg)
 
+<div class="grid-6 grid-1-mobile">
+  <h2>Reducing interuptions</h2>
+  <p>Our customers love to hunt for a deal, which often involves adding and removing items from their cart as they compare prices and save items for later. However, the current experience had an obtrusive pop-up with a warning icon asking the user to confirm their removal every time they wanted to do this. To create a more enjoyable and hassle-free shopping experience, I proposed to remove the majority of pop-ups in the cart and replace them with a softer message that didn’t block or cover their items.</p>
+</div>
+
 ![sdf](./portfolio/portfolio/jcpenney-cart-and-checkout/jcpenney-cart42.jpeg)
 
 ![sdf](./portfolio/portfolio/jcpenney-cart-and-checkout/jcpenney-cart43.jpeg)
