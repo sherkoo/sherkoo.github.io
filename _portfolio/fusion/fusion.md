@@ -31,6 +31,9 @@ teamSize: [7 Engineers, 3 UX designers, 1 Product owner, 2 Data scientists, 1 Co
 ![sdf](./portfolio/portfolio/fusion/fusion-11.png)
 ![sdf](./portfolio/portfolio/fusion/fusion-12.png)
 
+## Success metrics
+![sdf](./portfolio/portfolio/fusion/fusion-26.png)
+
 ## Research
 
 <div class="grid-6 grid-1-mobile">
@@ -51,8 +54,9 @@ teamSize: [7 Engineers, 3 UX designers, 1 Product owner, 2 Data scientists, 1 Co
 
 ## Our users
 
-![sdf](./portfolio/portfolio/fusion/fusion-5.png)
-![sdf](./portfolio/portfolio/fusion/fusion-21.png)
+![](./portfolio/portfolio/fusion/fusion-5.png)
+![](./portfolio/portfolio/fusion/fusion-21.png)
+![](./portfolio/portfolio/fusion/fusion-28.png)
 
 ## Vision
 
@@ -82,6 +86,7 @@ teamSize: [7 Engineers, 3 UX designers, 1 Product owner, 2 Data scientists, 1 Co
 ![sdf](./portfolio/portfolio/fusion/fusion-2.png)
 ![sdf](./portfolio/portfolio/fusion/fusion-16.png)
 
+## Design
 ![sdf](./portfolio/portfolio/fusion/fusion-3.png)
 ![sdf](./portfolio/portfolio/fusion/fusion-6.png)
 ![sdf](./portfolio/portfolio/fusion/fusion-7.png)
@@ -89,6 +94,8 @@ teamSize: [7 Engineers, 3 UX designers, 1 Product owner, 2 Data scientists, 1 Co
 ![sdf](./portfolio/portfolio/fusion/fusion-17.png)
 ![sdf](./portfolio/portfolio/fusion/fusion-18.png)
 ![sdf](./portfolio/portfolio/fusion/fusion-20.png)
+![sdf](./portfolio/portfolio/fusion/fusion-29.png)
+![sdf](./portfolio/portfolio/fusion/fusion-27.png)
 
 <!-- ![sdf](./portfolio/portfolio/fusion/fusion-22.png) -->
 
