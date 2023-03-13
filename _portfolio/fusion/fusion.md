@@ -8,7 +8,14 @@ permalink: "fusion"
 published: true
 team: [Product strategy, Project lead, UX Design, Research]
 description: "Create a tool for Sam’s Club’s merchant teams that improves their lives by removing mundane tasks so they can focus the majority of their time crafting more delightful experiences for the customer."
-teamSize: [7 Engineers, 3 UX designers, 1 Product owner, 2 Data scientists, 1 Content designer]
+teamSize:
+  [
+    7 Engineers,
+    3 UX designers,
+    1 Product owner,
+    2 Data scientists,
+    1 Content designer,
+  ]
 ---
 
 ![](./portfolio/portfolio/fusion/fusion-24.png)
@@ -32,6 +39,7 @@ teamSize: [7 Engineers, 3 UX designers, 1 Product owner, 2 Data scientists, 1 Co
 ![sdf](./portfolio/portfolio/fusion/fusion-12.png)
 
 ## Success metrics
+
 ![sdf](./portfolio/portfolio/fusion/fusion-26.png)
 
 ## Research
@@ -82,11 +90,17 @@ teamSize: [7 Engineers, 3 UX designers, 1 Product owner, 2 Data scientists, 1 Co
 ## Testing
 
 ![sdf](./portfolio/portfolio/fusion/fusion-15.png)
+
+<div class="grid-6 grid-1-mobile">
+  <h2>Handling an Influx of Ideas: Prioritization Strategies</h2>
+  <p>We had no shortage of ideas and feature requests. These came from our research, UX, product managers, and business partners. The influx of ideas were exciting and user-centered, but we knew we couldn't handle everything. To manage this, we prioritized the features through an exercise.</p>
+</div>
 ![sdf](./portfolio/portfolio/fusion/fusion-1.png)
-![sdf](./portfolio/portfolio/fusion/fusion-2.png)
-![sdf](./portfolio/portfolio/fusion/fusion-16.png)
 
 ## Design
+
+![sdf](./portfolio/portfolio/fusion/fusion-2.png)
+![sdf](./portfolio/portfolio/fusion/fusion-16.png)
 ![sdf](./portfolio/portfolio/fusion/fusion-3.png)
 ![sdf](./portfolio/portfolio/fusion/fusion-6.png)
 ![sdf](./portfolio/portfolio/fusion/fusion-7.png)
