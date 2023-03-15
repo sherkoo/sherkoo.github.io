@@ -23,6 +23,8 @@ teamSize: [14 Engineers, 4 UX designers, 3 Product owners, 8 Data scientists]
   </div>
 </div>
 
+![](./portfolio/portfolio/intelligent-business-growth/ibg-33.png)
+
 ## Identifying gaps and unknowns
 
 During the early stages of this UX case study, I facilitated a workshop with the stakeholders to determine viable use cases for the application we were developing. The goal of this workshop was to identify the most critical and impactful use cases that we could start tackling in the first phase of the project.
@@ -31,7 +33,7 @@ During the early stages of this UX case study, I facilitated a workshop with the
 
 <div class="grid-6 grid-1-mobile">
   <h2>Vigilance in the Face of Change: Covering Gaps in the Project</h2>
-  <p>After a thorough discussion, our perspective shifted as well as our business and user goals. I have come to realize that in the real world, things do not always go according to plan. While having processes and plans in place is beneficial, it is important to remain agile and adaptable as business needs can change due to leadership changes or shifts in the economy. Accepting this reality has made me a stronger designer as I now know what to expect and how to better plan and strategize. It’s important to stay vigilant and provide coverages to gaps as the team and project shifts.</p>
+  <p>After a thorough discussion, our perspective shifted as well as our business and user goals. I have come to realize that in the real world, things do not always go according to plan. While having processes and plans in place is beneficial, it is important to remain agile and adaptable as business needs can change due to leadership changes or shifts in the economy. Accepting this reality has made me a stronger designer as I now know what to expect and how to better plan and strategize. It's important to stay vigilant and provide coverages to gaps as the team and project shifts.</p>
 </div>
 
 <div class="grid-6 grid-1-mobile">
@@ -46,6 +48,7 @@ During the early stages of this UX case study, I facilitated a workshop with the
   <p>We conducted research to understand the needs and pain points of the finance team. We conducted interviews with finance professionals to understand their workflow, pain points, and goals. We found that the finance team struggles with the time-consuming process of manually creating forecasts. They also expressed frustration with the complexity of the data and the difficulty of identifying relevant trends and patterns. They expressed a desire for an application that would streamline the process and provide more accurate predictions.</p>
 </div>
 
+![](./portfolio/portfolio/intelligent-business-growth/ibg-34.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-21.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-1.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-7.png)
