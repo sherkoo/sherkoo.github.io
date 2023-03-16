@@ -100,6 +100,7 @@ The tournaments were broadcasted live on the Twitch platform, with expert commen
 
 ![thing](./portfolio/portfolio/pvp-live/7.jpg)
 
+<!-- set design -->
 <div class="grid-6 grid-1-mobile">
   <h2>Set Design: Challenges and Considerations</h2>
   <div>
@@ -109,13 +110,6 @@ The tournaments were broadcasted live on the Twitch platform, with expert commen
 
   </div>
 </div>
-
-<div class="grid-6 grid-1-mobile">
-  <h2>Service Blueprint</h2>
-  <p>This service blueprint is designed to enhance the user's experience by providing a seamless and integrated experience while using the PVP Live Service.</p>
-</div>
-
-<img src="./portfolio/portfolio/pvp-live/26.png" alt="">
 
 <div class="grid-6 grid-1-mobile spacing-2-0">
   <img src="./portfolio/portfolio/pvp-live/15.png" alt="">
@@ -129,6 +123,14 @@ The tournaments were broadcasted live on the Twitch platform, with expert commen
 </div>
 
 <img src="./portfolio/portfolio/pvp-live/23.png" alt="">
+
+<!-- service blueprint -->
+<div class="grid-6 grid-1-mobile">
+  <h2>Service Blueprint</h2>
+  <p>This service blueprint is designed to enhance the user's experience by providing a seamless and integrated experience while using the PVP Live Service.</p>
+</div>
+
+<img src="./portfolio/portfolio/pvp-live/26.png" alt="">
 
 <!-- app design -->
 
