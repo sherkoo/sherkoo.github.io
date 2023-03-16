@@ -90,6 +90,12 @@ During the early stages of this UX case study, I facilitated a workshop with the
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-26.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-27.png)
 
+<div class="grid-6 grid-1-mobile">
+  <h2>Creating stories and use cases</h2>
+  <p>Our product managers fufilled this duty for the most part, but every once I needed to cover some gaps and pitch in. I wrote stories in JIRA from time to time and ensure our sprints were closed before starting the next one.</p>
+</div>
+![](./portfolio/portfolio/intelligent-business-growth/ibg-35.png)
+
 <!-- ![](./portfolio/portfolio/intelligent-business-growth/ibg-20.png) -->
 
 The application has a simple and intuitive interface, with features such as data visualization and interactive charts. The user can easily upload historical data into the application and view the predicted future trends based on the data. The application also provides recommendations for adjusting the forecast based on changing market conditions or other factors that may affect the business.
