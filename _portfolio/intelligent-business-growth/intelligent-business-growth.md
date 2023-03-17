@@ -67,8 +67,11 @@ During the early stages of this UX case study, I facilitated a workshop with the
 </div>
 
 <div class="grid-6 grid-1-mobile">
-  <h2>Design</h2>
-  <p>The team and I designed an application that leverages AI and machine learning to assist the finance team in creating forecasts. The system identifies relevant trends and patterns in the data, and provides recommendations for forecasting based on historical data.</p>
+  <h2>Design and Staying Lean</h2>
+  <div>
+    <p>Before creating wireframes, our priority was to maintain a lean approach to move quickly. We tested the proposed journey with our users, gauging their responses and noting down their likes and dislikes. Based on this feedback, we moved on to creating wireframes.</p>
+    <p>One thing was clear: the team and I needed to design an application that leverages AI and machine learning to assist the finance team in creating forecasts. The system should identify relevant trends and patterns in the data and provide recommendations for forecasting based on historical data.</p>
+  </div>
 </div>
 
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-15.png)
