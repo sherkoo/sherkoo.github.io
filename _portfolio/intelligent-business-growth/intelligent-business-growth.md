@@ -66,6 +66,16 @@ During the early stages of this UX case study, I facilitated a workshop with the
   <p>It was essential to understand the language and nomenclature used by our target users. This list of nomenclature was placed in confluence as a living document, and shared with the entire team. This understanding gave us motivation to use the same terminology in the interface design, which enhances the user's experience and ensures that they can easily understand the interface's functions. If we were to use different words or phrases than those familiar to your users, it can lead to confusion and frustration, which ultimately decreases the user's trust in your product.</p>
 </div>
 
+<div class="grid-6 grid-1-mobile spacing-2-0">
+  <div>
+    <h2>Understanding Data Science</h2>
+    <p>Although I have worked with some data scientists in the past, for this project, I wanted to delve deeper into their world and gain a better understanding of what it takes to produce the results they do. To that end, I enrolled in an introductory data science course to better comprehend their contributions and expertise.</p>
+  </div>
+  <div>
+    <img src="./portfolio/portfolio/intelligent-business-growth/ibg-36.png" alt="">
+  </div>
+</div>
+
 <div class="grid-6 grid-1-mobile">
   <h2>Design and Staying Lean</h2>
   <div>
