@@ -49,6 +49,12 @@ During the early stages of this UX case study, I facilitated a workshop with the
 </div>
 
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-34.png)
+
+<div class="grid-6 grid-1-mobile">
+  <h2>4 Day Design Thinking Workshop</h2>
+</div>
+
+![](./portfolio/portfolio/intelligent-business-growth/ibg-37.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-21.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-1.png)
 ![](./portfolio/portfolio/intelligent-business-growth/ibg-7.png)
