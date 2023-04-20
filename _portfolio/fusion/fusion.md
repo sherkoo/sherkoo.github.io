@@ -36,6 +36,7 @@ teamSize:
 ## Workshops
 
 ![sdf](./portfolio/portfolio/fusion/fusion-11.png)
+![sdf](./portfolio/portfolio/fusion/fusion-33.png)
 ![sdf](./portfolio/portfolio/fusion/fusion-12.png)
 
 ## Success metrics
@@ -108,6 +109,11 @@ teamSize:
 ![sdf](./portfolio/portfolio/fusion/fusion-17.png)
 ![sdf](./portfolio/portfolio/fusion/fusion-18.png)
 ![sdf](./portfolio/portfolio/fusion/fusion-20.png)
+
+![sdf](./portfolio/portfolio/fusion/fusion-30.png)
+![sdf](./portfolio/portfolio/fusion/fusion-31.png)
+![sdf](./portfolio/portfolio/fusion/fusion-32.png)
+
 ![sdf](./portfolio/portfolio/fusion/fusion-29.png)
 ![sdf](./portfolio/portfolio/fusion/fusion-27.png)
 
