@@ -6,8 +6,8 @@ duration: 7 months
 thumbnail: /fusion-24.png
 permalink: "fusion"
 published: true
-team: [Product strategy, Project lead, UX Design, Research]
-description: "Create a tool for Sam’s Club’s merchant teams that improves their lives by removing mundane tasks so they can focus the majority of their time crafting more delightful experiences for the customer."
+team: [Lead UX Designer, Product strategy, Research]
+description: "Our goal is to create a tool that enhances the lives of Sam's Club's merchant teams. By automating tedious and repetitive tasks, the tool frees up their time to focus on creating more delightful experiences for customers. With this tool, we hope to improve the productivity and job satisfaction of the merchant teams, ultimately leading to better outcomes for both the teams and the customers they serve."
 teamSize:
   [
     7 Engineers,

@@ -5,8 +5,8 @@ date: 2023-02-27 21:04:23 -0600
 duration: 13 months
 thumbnail: /thumbnail.png
 permalink: "intelligent-business-growth"
-team: [Product strategy, Project lead, Lead UX Design, Research]
-description: "Designing an application for the finance team that leverages AI and machine learning to assist with creating a new forecast for the business."
+team: [Lead UX Designer, Product strategy, Research]
+description: "To create an innovative application that will help our finance team create more accurate forecasts for the business. By incorporating cutting-edge AI and machine learning technologies, the application will streamline the forecasting process and provide valuable insights that will help the team make more informed decisions. Our goal is to empower the finance team to work more efficiently and effectively, and to contribute to the overall success of our business."
 teamSize: [14 Engineers, 4 UX designers, 3 Product owners, 8 Data scientists]
 ---
 
