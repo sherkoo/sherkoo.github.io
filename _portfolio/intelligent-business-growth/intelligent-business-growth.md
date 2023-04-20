@@ -1,7 +1,7 @@
 ---
 layout: work
 title: "Intelligent Business Growth"
-date: 2023-02-27 21:04:23 -0600
+date: 2023-01-27 21:04:23 -0600
 duration: 13 months
 thumbnail: /thumbnail.png
 permalink: "intelligent-business-growth"

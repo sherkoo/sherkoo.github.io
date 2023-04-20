@@ -1,7 +1,7 @@
 ---
 layout: work
 title: "Fusion"
-date: 2023-02-14 21:39:50 -0600
+date: 2023-01-14 21:39:50 -0600
 duration: 7 months
 thumbnail: /fusion-24.png
 permalink: "fusion"
